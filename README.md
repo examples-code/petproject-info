@@ -7,5 +7,5 @@
 
 **Навигация:**
 
-1. <a href="https://github.com/sogorich/petproject-info/blob/master/generic.md">Общие рекомендации</a>
-2. <a href="https://github.com/sogorich/petproject-info/blob/master/Python%2BDjango.md">Python+Django</a>
+1. <a href="https://github.com/examples-code/petproject-info/blob/master/generic.md">Общие рекомендации</a>
+2. <a href="https://github.com/examples-code/petproject-info/blob/master/Python%2BDjango.md">Python+Django</a>
