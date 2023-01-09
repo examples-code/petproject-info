@@ -9,3 +9,9 @@
 
 1. <a href="https://github.com/examples-code/petproject-info/blob/master/generic.md">Общие рекомендации</a>
 2. <a href="https://github.com/examples-code/petproject-info/blob/master/Python%2BDjango.md">Python+Django</a>
+
+В подготовке данных рекомендаций активное участие принимали:
+- Егор Черный (https://github.com/sogorich)
+
+Группа в телеграм, рекомендуемая для общения по теме Python и Django:
+@django_selfedu
